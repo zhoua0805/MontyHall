@@ -1,6 +1,4 @@
-//AliceZU1A1Q5
 //Alice Zhou
-//For: Mrs. Harris
 //February 23rd, 2018
 //Monty Hall: this program gives the user options to choose from three doors with one car in only one of the doors.
 //Revision: None
